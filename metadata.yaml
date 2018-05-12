@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32139#An-Appeal-to-Honour-and-Justice-Though-It-Be-of-His-Worst-Enemies.Being-A-True-Account-of-His_
 gutenberg_issued: '2010-04-26'
 gutenberg_type: Text
 identifiers:
